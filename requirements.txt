@@ -1,0 +1,3 @@
+ipkernel 
+pandas 
+numpy
