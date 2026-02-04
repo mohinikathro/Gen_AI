@@ -22,3 +22,8 @@ beautifulsoup4
 langchain_classic
 streamlit
 langchain-groq
+langchain-core
+fastapi
+uvicorn
+langserve
+sse-starlette
